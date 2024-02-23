@@ -8,7 +8,7 @@ An Enthusiastic undergrad studying games and interactive media in the School of 
 
 * 🌍  I'm based in Bangkok, Thailand
 * 🖥️  See my Portflio at [SuNnY54569/Portfolio](https://github.com/SuNnY54569/Portfolio)
-* * 🫱🏻‍🫲🏽  My Volunteer Activity Details [SuNnY54569/BU-workcamp](https://github.com/SuNnY54569/BU-workcamp)
+* 🫱🏻‍🫲🏽  My Volunteer Activity Details [SuNnY54569/BU-workcamp](https://github.com/SuNnY54569/BU-workcamp)
 * ✉️  You can contact me at [sorawisson@gmail.com](mailto:sorawisson@gmail.com)
 * 📱   You can reach me by phone as well : __081-644-4838__
 * 🚀  My work can be seen on [Itch.io](http://sunny54569.itch.io/)
@@ -37,6 +37,13 @@ An Enthusiastic undergrad studying games and interactive media in the School of 
 * Time Management
 * Communication
 * Critical Thinking
+
+### Socials
+
+<p align="left"> 
+  <a href="https://www.github.com/SuNnY54569" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/sorawis-leepiyasakulchai-3925622ab" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
+</p>
+  
 
 ### Certificate & Badge
 
