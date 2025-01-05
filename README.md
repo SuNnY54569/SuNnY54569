@@ -24,6 +24,10 @@ I’m a graduate in **Games and Interactive Media** from Bangkok University’s 
 - Developed **TwinTrouble**, a couch co-op puzzle game created during the training program, based on the theme "Buddy," highlighting creative problem-solving and cooperative gameplay.
 
 <p align="left">  
+  <img src="WolvEden Cer.jpg" alt="WolvEden Internship Project Image" />  
+</p>
+
+<p align="left">  
   <img src="QuartzCore_Cover.png" alt="WolvEden Internship Project Image" />  
 </p>
 
