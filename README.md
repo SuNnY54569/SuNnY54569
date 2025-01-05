@@ -1,62 +1,64 @@
-Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Sorawis Leepiyasakulchai
-================================================================================================================================================
+# Hi! 👋 My name is Sorawis Leepiyasakulchai  
+## Game Developer | Unity, C#
 
-Game Developer | Unity, C#
---------------------------
+---
 
-An Enthusiastic undergrad studying games and interactive media in the School of Information Technology and Innovation at Bangkok University (BU). Equipped with the Unity (2D, 3D, and VR) development abilities necessary to design and finish a game. a driven and flexible individual with soft skills in critical thinking, time management, emotional intelligence, teamwork, and team communication who will be the best for a group of game developers. I'm really passionate about the gaming industry and want to learn from experts to improve myself and be a valuable asset to the business.
+I’m an enthusiastic undergraduate studying Games and Interactive Media at Bangkok University’s School of Information Technology and Innovation. Skilled in Unity development (2D, 3D, VR), I’m passionate about designing and completing engaging games. With strong technical skills and soft skills in critical thinking, teamwork, and communication, I’m eager to grow in the gaming industry and contribute as a valuable team member.
 
-* 🌍  I'm based in Bangkok, Thailand
-* 🖥️  See my Portflio at [SuNnY54569/Portfolio](https://github.com/SuNnY54569/Portfolio)
-* 🫱🏻‍🫲🏽  My Volunteer Activity Details [SuNnY54569/BU-workcamp](https://github.com/SuNnY54569/BU-workcamp)
-* ✉️  You can contact me at [sorawisson@gmail.com](mailto:sorawisson@gmail.com)
-* 📱   You can reach me by phone as well : __081-644-4838__
-* 🚀  My work can be seen on [Itch.io](http://sunny54569.itch.io/)
-* 🧠  I'm still improving my Unity, C#, 3D modeling, and game design skills. Currently learning on NetCode
-* 🤝  I'm open to collaborating on 2D, 3D Indie game projects
+- 🌍 Based in Bangkok, Thailand  
+- 🖥️ Explore my [Portfolio](https://github.com/SuNnY54569/Portfolio)  
+- 🫱🏻‍🫲🏽 View my [Volunteer Activities](https://github.com/SuNnY54569/BU-workcamp)  
+- ✉️ Reach me at [sorawisson@gmail.com](mailto:sorawisson@gmail.com)  
+- 📱 Contact me: **081-644-4838**  
+- 🚀 Check out my work on [Itch.io](http://sunny54569.itch.io/)  
+- 🧠 Currently learning NetCode, while improving Unity, C#, 3D modeling, and game design skills  
+- 🤝 Open to collaborations on 2D and 3D indie game projects  
 
-### Skills
+---
 
-##Proficient
-* Unity Engine
-* C#
-* Adobe Photoshop
-##Intermediate
-* Unity VR
-* Maya
-* Github
-* Game Design
-* Substance Painter
-* Adobe Premiere Pro
-* Firebase
-* Figma
+## Skills  
 
-### Soft Skills
+### Proficient  
+- Unity Engine  
+- C#  
+- Adobe Photoshop  
 
-* Teamwork
-* Team Leadership
-* Emotional Intelligence
-* Adaptive Learning
-* Time Management
-* Communication
-* Critical Thinking
+### Intermediate  
+- Unity VR  
+- Autodesk Maya  
+- GitHub  
+- Game Design  
+- Substance Painter  
+- Adobe Premiere Pro  
+- Firebase  
+- Figma  
 
-### Socials
+---
 
-<p align="left"> 
-  <a href="https://www.github.com/SuNnY54569" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/sorawis-leepiyasakulchai-3925622ab" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
-</p>
-  
+## Soft Skills  
+- Teamwork & Leadership  
+- Emotional Intelligence  
+- Adaptive Learning  
+- Time Management  
+- Communication  
+- Critical Thinking  
 
-### Certificate & Badge
+---
 
-* [Unity Certified Associate: Game Developer](https://www.credly.com/badges/89b8e7bf-7a64-4a9f-86cb-f3dd4888e08c/public_url)
+## Socials  
+[![GitHub](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg)](https://www.github.com/SuNnY54569)  
+[![LinkedIn](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg)](https://www.linkedin.com/in/sorawis-leepiyasakulchai-3925622ab)  
+
+---
+
+## Certifications  
+
+- [Unity Certified Associate: Game Developer](https://www.credly.com/badges/89b8e7bf-7a64-4a9f-86cb-f3dd4888e08c/public_url)  
 
 <p align="left">  
   <img src="Game Developer certificate_page-0001.jpg" width="430" height="300" alt="Certificate" />
   <img src="Unity Game Developer badge.png" alt="Badge" />
-</p> 
-
+</p>  
 
 
 
