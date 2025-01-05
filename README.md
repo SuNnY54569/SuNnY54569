@@ -21,7 +21,11 @@ I’m a graduate in **Games and Interactive Media** from Bangkok University’s 
 ### WolvEden Production (18 June 2024 – 31 August 2024)  
 **Unity Developer**  
 - Designed and implemented AI behaviors for enemies and bosses in **QuartCore**, a third-person shooter showcased at BU OpenHouse 2024, demonstrating advanced gameplay mechanics and engaging player experiences.  
-- Developed **TwinTrouble**, a couch co-op puzzle game created during the training program, based on the theme "Buddy," highlighting creative problem-solving and cooperative gameplay.  
+- Developed **TwinTrouble**, a couch co-op puzzle game created during the training program, based on the theme "Buddy," highlighting creative problem-solving and cooperative gameplay.
+
+<p align="left">  
+  <img src="QuartzCore_Cover.png" alt="WolvEden Internship Project Image" />  
+</p>
 
 ---
 
