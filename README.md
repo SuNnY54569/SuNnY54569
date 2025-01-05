@@ -45,12 +45,6 @@ I’m an enthusiastic undergraduate studying Games and Interactive Media at Bang
 
 ---
 
-## Socials  
-[![GitHub](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg)](https://www.github.com/SuNnY54569)  
-[![LinkedIn](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg)](https://www.linkedin.com/in/sorawis-leepiyasakulchai-3925622ab)  
-
----
-
 ## Certifications  
 
 - [Unity Certified Associate: Game Developer](https://www.credly.com/badges/89b8e7bf-7a64-4a9f-86cb-f3dd4888e08c/public_url)  
