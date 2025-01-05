@@ -3,7 +3,7 @@
 
 ---
 
-I’m an enthusiastic undergraduate studying Games and Interactive Media at Bangkok University’s School of Information Technology and Innovation. Skilled in Unity development (2D, 3D, VR), I’m passionate about designing and completing engaging games. With strong technical skills and soft skills in critical thinking, teamwork, and communication, I’m eager to grow in the gaming industry and contribute as a valuable team member.
+I’m a graduate in **Games and Interactive Media** from Bangkok University’s School of Information Technology and Innovation. Skilled in Unity development (2D, 3D, VR), I’m passionate about designing and completing engaging games. With strong technical skills and soft skills in critical thinking, teamwork, and communication, I’m eager to grow in the gaming industry and contribute as a valuable team member.
 
 - 🌍 Based in Bangkok, Thailand  
 - 🖥️ Explore my [Portfolio](https://github.com/SuNnY54569/Portfolio)  
@@ -13,6 +13,15 @@ I’m an enthusiastic undergraduate studying Games and Interactive Media at Bang
 - 🚀 Check out my work on [Itch.io](http://sunny54569.itch.io/)  
 - 🧠 Currently learning NetCode, while improving Unity, C#, 3D modeling, and game design skills  
 - 🤝 Open to collaborations on 2D and 3D indie game projects  
+
+---
+
+## Internship Experience  
+
+### WolvEden Production (18 June 2024 – 31 August 2024)  
+**Unity Developer**  
+- Designed and implemented AI behaviors for enemies and bosses in **QuartCore**, a third-person shooter showcased at BU OpenHouse 2024, demonstrating advanced gameplay mechanics and engaging player experiences.  
+- Developed **TwinTrouble**, a couch co-op puzzle game created during the training program, based on the theme "Buddy," highlighting creative problem-solving and cooperative gameplay.  
 
 ---
 
@@ -53,8 +62,3 @@ I’m an enthusiastic undergraduate studying Games and Interactive Media at Bang
   <img src="Game Developer certificate_page-0001.jpg" width="430" height="300" alt="Certificate" />
   <img src="Unity Game Developer badge.png" alt="Badge" />
 </p>  
-
-
-
-
-
